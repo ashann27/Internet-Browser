@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\WebBrowser\WebBrowser.Data\bin\Debug\WebBrowser.Data.dll
+C:\Users\Alex\source\repos\WebBrowser\WebBrowser.Data\bin\Debug\WebBrowser.Data.pdb
+C:\Users\Alex\source\repos\WebBrowser\WebBrowser.Data\obj\Debug\WebBrowser.Data.dll
+C:\Users\Alex\source\repos\WebBrowser\WebBrowser.Data\obj\Debug\WebBrowser.Data.pdb
+C:\Users\Alex\source\repos\WebBrowser\WebBrowser.Data\bin\Debug\Database1.mdf
+C:\Users\Alex\source\repos\WebBrowser\WebBrowser.Data\bin\Debug\Database1_log.ldf
+C:\Users\Alex\source\repos\WebBrowser\WebBrowser.Data\bin\Debug\WebBrowser.Data.dll.config
